@@ -7967,3 +7967,4 @@ DOMAIN-SUFFIX,mcupdate.gstarcad.com,REJECT
 DOMAIN-SUFFIX,uem.migu.cn,REJECT
 DOMAIN-SUFFIX,sdk.migudm.cn,REJECT
 DOMAIN-SUFFIX,app.c.nf.migudm.cn,REJECT
+DOMAIN-SUFFIX,caiyun.feixin.10086.cn,REJECT
