@@ -7972,3 +7972,5 @@ DOMAIN-SUFFIX,photo.caiyun.feixin.10086.cn,REJECT
 DOMAIN-SUFFIX,ose.caiyun.feixin.10086.cn,REJECT
 DOMAIN-SUFFIX,ose1.caiyun.feixin.10086.cn,REJECT
 DOMAIN-SUFFIX,mcmm.caiyun.feixin.10086.cn,REJECT
+DOMAIN-SUFFIX,ass.caiyun.feixin.10086.cn,REJECT
+DOMAIN-SUFFIX,base.hjq.komect.com,REJECT
