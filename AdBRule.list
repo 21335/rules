@@ -7964,13 +7964,3 @@ DOMAIN-SUFFIX,adx.open-adx.com,REJECT
 DOMAIN-SUFFIX,adservice.sigmob.cn,REJECT
 DOMAIN-SUFFIX,unidesk.alicdn.com,REJECT
 DOMAIN-SUFFIX,mcupdate.gstarcad.com,REJECT
-DOMAIN-SUFFIX,uem.migu.cn,REJECT
-DOMAIN-SUFFIX,sdk.migudm.cn,REJECT
-DOMAIN-SUFFIX,app.c.nf.migudm.cn,REJECT
-DOMAIN-SUFFIX,huodong.caiyun.feixin.10086.cn,REJECT
-DOMAIN-SUFFIX,photo.caiyun.feixin.10086.cn,REJECT
-DOMAIN-SUFFIX,ose.caiyun.feixin.10086.cn,REJECT
-DOMAIN-SUFFIX,ose1.caiyun.feixin.10086.cn,REJECT
-DOMAIN-SUFFIX,mcmm.caiyun.feixin.10086.cn,REJECT
-DOMAIN-SUFFIX,ass.caiyun.feixin.10086.cn,REJECT
-DOMAIN-SUFFIX,base.hjq.komect.com,REJECT
