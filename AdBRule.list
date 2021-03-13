@@ -7964,3 +7964,6 @@ DOMAIN-SUFFIX,adx.open-adx.com,REJECT
 DOMAIN-SUFFIX,adservice.sigmob.cn,REJECT
 DOMAIN-SUFFIX,unidesk.alicdn.com,REJECT
 DOMAIN-SUFFIX,mcupdate.gstarcad.com,REJECT
+DOMAIN-SUFFIX,uem.migu.cn,REJECT
+DOMAIN-SUFFIX,sdk.migudm.cn,REJECT
+DOMAIN-SUFFIX,app.c.nf.migudm.cn,REJECT
